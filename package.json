@@ -1,0 +1,14 @@
+{
+  "name": "try-js",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node src/test.js",
+    "try": "node src/test.js"
+  },
+  "author": ""
+}
